@@ -1,0 +1,8 @@
+RUN_EMULATOR = False
+
+# USD/GBP/EUR etc
+LOCAL_CURRENCY_SYMBOL = "USD"
+# $ £ € etc
+LOCAL_CURRENCY_CHAR = "$"
+
+WALLET_ADDRESS = "Wallet Address Here"
